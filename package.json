@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" :"node index.js"
+    "start": "node index.js"
   },
   "author": "Anitha Senthilnathan",
   "license": "ISC",
   "dependencies": {
+    "alexa-app-server": "^3.0.1",
     "body-parser": "^1.17.2",
     "express": "^4.15.4"
   }
